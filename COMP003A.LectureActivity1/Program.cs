@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("100 Things About Me");
+            Console.WriteLine("1. I am 40 years old.");
+
 
         }
     }
